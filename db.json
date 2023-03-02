@@ -6,6 +6,33 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "neto@mail.com",
+      "password": "$2a$10$8wzLVBdpD1A0UG3AJtvlJe0KCTw.Q19YAg17yVwHFMb2GY05ebOrS",
+      "name": "Neto",
+      "age": 40,
+      "id": 2
+    }
+  ],
+  "cities": [
+    {
+      "name": "Americana",
+      "state": "São Paulo",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "São Paulo",
+      "state": "São Paulo",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "Fortaleza",
+      "state": "Ceará",
+      "userId": 2,
+      "id": 4
     }
   ]
 }
